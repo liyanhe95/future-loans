@@ -1,0 +1,62 @@
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003A01898>: Failed to establish a new connection: [WinError 10061] ����Ŀ�����������ܾ����޷����ӡ�',)': /session/2073124c845fb29d748bfa2b2667c81e/element
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003A160F0>: Failed to establish a new connection: [WinError 10061] ����Ŀ�����������ܾ����޷����ӡ�',)': /session/2073124c845fb29d748bfa2b2667c81e/element
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003CA1518>: Failed to establish a new connection: [WinError 10061] ����Ŀ�����������ܾ����޷����ӡ�',)': /session/2073124c845fb29d748bfa2b2667c81e/element
+ERROR:root:no this element:HTTPConnectionPool(host='127.0.0.1', port=54355): Max retries exceeded with url: /session/2073124c845fb29d748bfa2b2667c81e/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003CA1400>: Failed to establish a new connection: [WinError 10061] ����Ŀ�����������ܾ����޷����ӡ�',))
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003CA14E0>: Failed to establish a new connection: [WinError 10061] ����Ŀ�����������ܾ����޷����ӡ�',)': /session/2073124c845fb29d748bfa2b2667c81e/screenshot
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003CA1BE0>: Failed to establish a new connection: [WinError 10061] ����Ŀ�����������ܾ����޷����ӡ�',)': /session/2073124c845fb29d748bfa2b2667c81e/screenshot
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003CA1668>: Failed to establish a new connection: [WinError 10061] ����Ŀ�����������ܾ����޷����ӡ�',)': /session/2073124c845fb29d748bfa2b2667c81e/screenshot
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003CA1A90>: Failed to establish a new connection: [WinError 10061] ����Ŀ�����������ܾ����޷����ӡ�',)': /session/2073124c845fb29d748bfa2b2667c81e/element
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003CD0128>: Failed to establish a new connection: [WinError 10061] ����Ŀ�����������ܾ����޷����ӡ�',)': /session/2073124c845fb29d748bfa2b2667c81e/element
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003CD0278>: Failed to establish a new connection: [WinError 10061] ����Ŀ�����������ܾ����޷����ӡ�',)': /session/2073124c845fb29d748bfa2b2667c81e/element
+ERROR:root:no this element:HTTPConnectionPool(host='127.0.0.1', port=54355): Max retries exceeded with url: /session/2073124c845fb29d748bfa2b2667c81e/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003CD03C8>: Failed to establish a new connection: [WinError 10061] ����Ŀ�����������ܾ����޷����ӡ�',))
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003CD00F0>: Failed to establish a new connection: [WinError 10061] ����Ŀ�����������ܾ����޷����ӡ�',)': /session/2073124c845fb29d748bfa2b2667c81e/screenshot
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003CD0710>: Failed to establish a new connection: [WinError 10061] ����Ŀ�����������ܾ����޷����ӡ�',)': /session/2073124c845fb29d748bfa2b2667c81e/screenshot
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003CD0860>: Failed to establish a new connection: [WinError 10061] ����Ŀ�����������ܾ����޷����ӡ�',)': /session/2073124c845fb29d748bfa2b2667c81e/screenshot
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003D11898>: Failed to establish a new connection: [WinError 10061] ����Ŀ�����������ܾ����޷����ӡ�',)': /session/b9c4bf13973d22010d440a8087831854/element
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003D260F0>: Failed to establish a new connection: [WinError 10061] ����Ŀ�����������ܾ����޷����ӡ�',)': /session/b9c4bf13973d22010d440a8087831854/element
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003FB14A8>: Failed to establish a new connection: [WinError 10061] ����Ŀ�����������ܾ����޷����ӡ�',)': /session/b9c4bf13973d22010d440a8087831854/element
+ERROR:root:no this element:HTTPConnectionPool(host='127.0.0.1', port=54405): Max retries exceeded with url: /session/b9c4bf13973d22010d440a8087831854/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003FB1710>: Failed to establish a new connection: [WinError 10061] ����Ŀ�����������ܾ����޷����ӡ�',))
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003FB14E0>: Failed to establish a new connection: [WinError 10061] ����Ŀ�����������ܾ����޷����ӡ�',)': /session/b9c4bf13973d22010d440a8087831854/screenshot
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003FB1BE0>: Failed to establish a new connection: [WinError 10061] ����Ŀ�����������ܾ����޷����ӡ�',)': /session/b9c4bf13973d22010d440a8087831854/screenshot
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003FB1668>: Failed to establish a new connection: [WinError 10061] ����Ŀ�����������ܾ����޷����ӡ�',)': /session/b9c4bf13973d22010d440a8087831854/screenshot
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003FB1A90>: Failed to establish a new connection: [WinError 10061] ����Ŀ�����������ܾ����޷����ӡ�',)': /session/b9c4bf13973d22010d440a8087831854/element
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003FE0128>: Failed to establish a new connection: [WinError 10061] ����Ŀ�����������ܾ����޷����ӡ�',)': /session/b9c4bf13973d22010d440a8087831854/element
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003FE02E8>: Failed to establish a new connection: [WinError 10061] ����Ŀ�����������ܾ����޷����ӡ�',)': /session/b9c4bf13973d22010d440a8087831854/element
+ERROR:root:no this element:HTTPConnectionPool(host='127.0.0.1', port=54405): Max retries exceeded with url: /session/b9c4bf13973d22010d440a8087831854/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003FE0438>: Failed to establish a new connection: [WinError 10061] ����Ŀ�����������ܾ����޷����ӡ�',))
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003FE0588>: Failed to establish a new connection: [WinError 10061] ����Ŀ�����������ܾ����޷����ӡ�',)': /session/b9c4bf13973d22010d440a8087831854/screenshot
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003FE0710>: Failed to establish a new connection: [WinError 10061] ����Ŀ�����������ܾ����޷����ӡ�',)': /session/b9c4bf13973d22010d440a8087831854/screenshot
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003FE0898>: Failed to establish a new connection: [WinError 10061] ����Ŀ�����������ܾ����޷����ӡ�',)': /session/b9c4bf13973d22010d440a8087831854/screenshot
+ERROR:root:no this element:Message: chrome not reachable
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64)
+
+RROR:root:no this element:Message: chrome not reachable
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64)
+
+ERROR:root:no this element:Message: 
+
+ERROR:root:no this element:Message: 
+
+ERROR:root:no this element:Message: 
+
+ERROR:root:no this element:Message: 
+
+ERROR:root:no this element:Message: 
+
+ERROR:root:no this element:Message: 
+
+ERROR:root:no this element:Message: 
+
+ERROR:root:no this element:Message: 
+
+ERROR:root:no this element:Message: 
+
+ERROR:root:no this element:Message: 
+
+ERROR:root:no this element:Message: 
+
+ERROR:root:no this element:Message: chrome not reachable
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64)
+
